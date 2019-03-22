@@ -1,4 +1,4 @@
-package com.info121.titalimo;
+package com.info121.mycoach;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
